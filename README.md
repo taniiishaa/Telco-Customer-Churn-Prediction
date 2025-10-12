@@ -43,7 +43,7 @@ This project strictly followed a standard ML pipeline, showcasing clean and repr
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/taniiishaa/Telco-Customer-Churn-Prediction-and-Retention-Strategy.git
+    git clone https://github.com/taniiishaa/Telco-Customer-Churn-Prediction-and-Retention-System.git
     ```
 2.  **Download the Data:** Obtain the `WA_Fn-UseC_-Telco-Customer-Churn.csv` file from Kaggle or the source linked in the notebook.
 3.  **Launch the Notebook:** Open the primary `.ipynb` file in your preferred environment (Jupyter Lab/Notebook or Google Colab).
